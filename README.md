@@ -6,6 +6,7 @@ You need the following prerequisite in order to perform the hands-on activities 
 
 * Azure Subscription _(Trial Subscription is enough)_
 * Visual Studio Community 2017
+* GitHub Account _(With the current sample project code pushed to a repository)_
 
 ### Azure Subscription
 You can create a Trial Azure Subscription to follow the hands-on demos during the workshop. Follow the instructions below to create the subscription. _You will need a Microsoft Account to proceed._
@@ -19,6 +20,9 @@ You can create a Trial Azure Subscription to follow the hands-on demos during th
 
 ### Visual Studio Community 2017
 You need to download the [Visual Studio Community 2017][1] edition and install on your development machine to work on hands-on demo. You can sign in to Visual Studio Community 2017 instance using the _Microsoft Account_ you created in the earlier step.
+
+### GitHub Account
+Create a GitHub account and create a repository. Then push this sample code project to the new repository you just created in your own GitHub account. _We will be using it to host a web application on Azure_
 
 
 ## Sample Application
