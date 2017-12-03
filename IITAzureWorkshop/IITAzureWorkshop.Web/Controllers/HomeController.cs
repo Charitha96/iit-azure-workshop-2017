@@ -18,14 +18,14 @@ namespace IITAzureWorkshop.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "IIT Azure Workshop 2017";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Kasun Kodagoda";
 
             return View();
         }
