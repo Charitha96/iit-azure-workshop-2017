@@ -59,7 +59,7 @@ using SendGrid.Helpers.Mail;
 
 public static void Run(Order order, TraceWriter log, out Mail email)
 {
-    log.Info($"C# Queue trigger function processed: {order}");
+    log.Info($"C# Queue trigger function processed: {order.Id}");
 
     var personalization = new Personalization();
     personalization.AddTo(new Email(order.Email));
