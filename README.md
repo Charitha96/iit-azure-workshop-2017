@@ -6,9 +6,9 @@ Sample code and instructions for Azure Workshop 2017 done at IIT
 
 You need the following prerequisite in order to perform the hands-on activities during the workshop.
 
-* Azure Subscription _(Trial Subscription is enough)_
-* Visual Studio Community 2017
-* GitHub Account _(With the current sample project code pushed to a repository)_
+* **Azure Subscription _(Trial Subscription is enough)_**
+* **Visual Studio Community 2017**
+* **GitHub Account _(With this sample project code pushed to a repository of your own)_**
 
 ### Azure Subscription
 
@@ -28,7 +28,6 @@ You need to download the [Visual Studio Community 2017][1] edition and install o
 ### GitHub Account
 
 Create a GitHub account and create a repository. Then push this sample code project to the new repository you just created in your own GitHub account. _We will be using it to host a web application on Azure_
-
 
 ## IIT Azure Workshop 2017 Sample Application
 
