@@ -83,6 +83,13 @@ public class Order
 }
 ```
 
+### SendGrid API Key
+
+```
+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
+```
+
+
 [1]: https://www.visualstudio.com/downloads/
 [2]: https://azure.microsoft.com/en-us/free/
 [3]: https://support.microsoft.com/en-ph/help/4026324/microsoft-account-sign-up-for-a-microsoft-account
